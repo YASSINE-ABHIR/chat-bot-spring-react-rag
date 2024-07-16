@@ -1,0 +1,15 @@
+@import "@vaadin/react-components/css/Lumo.css";
+@import "@vaadin/react-components/css/lumo/Utility.module.css";
+@import "@vaadin/react-components/css/lumo/Typography.css";
+*{
+    font-family: var(--lumo-font-family);
+    font-size: var(--lumo-font-size-m);
+    line-height: var(--lumo-line-height-m);
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+    max-width: 6rem;
+}

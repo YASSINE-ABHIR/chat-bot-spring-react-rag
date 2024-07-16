@@ -1,0 +1,24 @@
+[
+  {
+    "route": "",
+    "params": {},
+    "title": "Layout",
+    "children": [
+      {
+        "route": "",
+        "params": {},
+        "title": "index"
+      },
+      {
+        "route": "chatbot",
+        "params": {},
+        "title": "Chatbot"
+      },
+      {
+        "route": "person",
+        "params": {},
+        "title": "Person"
+      }
+    ]
+  }
+]
